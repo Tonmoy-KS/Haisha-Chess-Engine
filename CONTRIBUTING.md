@@ -69,8 +69,6 @@ git config blame.ignoreRevsFile .git-blame-ignore-revs
 
 ## Community and Communication
 
-- Join the [Haisha discord][discord-link] to discuss ideas, issues, and
-  development.
 - Participate in the [Haisha GitHub discussions][discussions-link] for
   broader conversations.
 
@@ -83,9 +81,8 @@ See [Copying.txt][copying-link] for more details.
 Thank you for contributing to Haisha and helping us make it even worse!
 
 [copying-link]:           https://github.com/official-stockfish/Stockfish/blob/master/Copying.txt
-[discord-link]:           https://discord.gg/[your-discord-link]
-[discussions-link]:       https://github.com/[your-username]/Haisha/discussions/new
-[issue-tracker-link]:     https://github.com/[your-username]/Haisha/issues
+[discussions-link]:       https://github.com/Tonmoy-KS/Haisha-Chess-Engine/discussions/new
+[issue-tracker-link]:     https://github.com/Tonmoy-KS/HaishaHaisha-Chess-Engine/issues
 [ubuntu-compiling-link]:  https://github.com/official-stockfish/Stockfish/wiki/Developers#user-content-installing-a-compiler-1
 [windows-compiling-link]: https://github.com/official-stockfish/Stockfish/wiki/Developers#user-content-installing-a-compiler
 [macos-compiling-link]:   https://github.com/official-stockfish/Stockfish/wiki/Developers#user-content-installing-a-compiler-2
