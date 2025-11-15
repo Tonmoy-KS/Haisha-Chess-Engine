@@ -96,12 +96,6 @@ inform its (inverted) evaluation.
 [src-link]:           ./src
 [wiki-compile-link]:  https://github.com/official-stockfish/Stockfish/wiki/Compiling-from-source
 [lc0-data-link]:      https://storage.lczero.org/files/t
-## Acknowledgements
-
-Stockfish uses neural networks trained on [data provided by the Leela Chess Zero
-project][lc0-data-link], which is made available under the [Open Database License][odbl-link] (ODbL).
-
-
 [authors-link]:       https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS
 [build-link]:         https://github.com/official-stockfish/Stockfish/actions/workflows/stockfish.yml
 [commits-link]:       https://github.com/official-stockfish/Stockfish/commits/master
