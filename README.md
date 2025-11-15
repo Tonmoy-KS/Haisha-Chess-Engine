@@ -89,7 +89,6 @@ Leela Chess Zero project][lc0-data-link]. Haisha benefits from this same data to
 inform its (inverted) evaluation.
 
 
-
 [authors-link]:       ./AUTHORS https://github.com/Tonmoy-KS/Haisha-Chess-Engine/issues/new
 [discussions-link]:   https://github.com/Tonmoy-KS/Haisha-Chess-Engine/discussions/new
 [license-link]:       ./Copying.txt
