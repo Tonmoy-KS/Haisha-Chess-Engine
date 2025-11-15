@@ -88,17 +88,12 @@ The original Stockfish engine uses neural networks trained on [data provided by 
 Leela Chess Zero project][lc0-data-link]. Haisha benefits from this same data to
 inform its (inverted) evaluation.
 
-[authors-link]:       ./AUTHORS
-[discord-link]:       https://discord.gg/[your-discord-link]
-[issue-link]:         https://github.com/[your-username]/Haisha/issues/new
-[discussions-link]:   https://github.com/[your-username]/Haisha/discussions/new
+[authors-link]:       ./AUTHORS https://github.com/Tonmoy-KS/Haisha-Chess-Engine/issues/new
+[discussions-link]:   https://github.com/Tonmoy-KS/Haisha-Chess-Engine/discussions/new
 [license-link]:       ./Copying.txt
 [programming-link]:   https://www.chessprogramming.org/Main_Page
 [readme-link]:        ./README.md
 [src-link]:           ./src
-[website-link]:       https://[your-haisha-website.com]
-[website-blog-link]:  https://[your-haisha-website.com]/blog
-[wiki-link]:          https://github.com/[your-username]/Haisha/wiki
 [wiki-compile-link]:  https://github.com/official-stockfish/Stockfish/wiki/Compiling-from-source
 [lc0-data-link]:      https://storage.lczero.org/files/t
 ## Acknowledgements
@@ -110,7 +105,6 @@ project][lc0-data-link], which is made available under the [Open Database Licens
 [authors-link]:       https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS
 [build-link]:         https://github.com/official-stockfish/Stockfish/actions/workflows/stockfish.yml
 [commits-link]:       https://github.com/official-stockfish/Stockfish/commits/master
-[discord-link]:       https://discord.gg/GWDRS3kU6R
 [issue-link]:         https://github.com/official-stockfish/Stockfish/issues/new?assignees=&labels=&template=BUG-REPORT.yml
 [discussions-link]:   https://github.com/official-stockfish/Stockfish/discussions/new
 [fishtest-link]:      https://tests.stockfishchess.org/tests
